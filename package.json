@@ -1,0 +1,30 @@
+{
+  "name": "comp308-w2017-lesson3b",
+  "version": "1.0.0",
+  "description": "Demo Express App for Lesson 3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cessien66/comp308.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Connect",
+    "JavaScript",
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Clinton Essien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cessien66/comp308.git"
+  },
+  "homepage": "https://github.com/cessien66/comp308.git",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
